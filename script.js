@@ -169,11 +169,11 @@ return newArr;
 function decade(n){
     if(n<=0)
     return NaN;
-    if(n<10)
+    if(n<=10)
     return 1;
-    if(n<20)
+    if(n<=20)
     return 2;
-    if(n<31)
+    if(n<=31)
     return 3;
     else
     return NaN;
