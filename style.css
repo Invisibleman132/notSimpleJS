@@ -1,0 +1,21 @@
+body {
+  display: block;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+}
+li {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.buttonStart {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #04aa6d;
+  padding: 14px 28px;
+  font-size: 40px;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 5px;
+}
